@@ -1,0 +1,161 @@
+<keymap version="1" name="Sublime Text" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt space" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CollapseSelection" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="IntroduceField" />
+  <action id="JumpToLastWindow" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt space" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="Rerun" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+  <action id="编辑器Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+</keymap>

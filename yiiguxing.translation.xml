@@ -1,0 +1,47 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="10" />
+    <histories>
+      <item value="insurance" />
+      <item value="strange" />
+      <item value="agency" />
+      <item value="Automatically retrieve next page data until no data returned" />
+      <item value="filter the customers only" />
+      <item value="Combine the policySource and customerSource into leadSource!" />
+      <item value="Producers" />
+      <item value="Carrier" />
+      <item value="Carriers" />
+      <item value="Companies" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE_CANTONESE" value="39" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180523000164652" />
+        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="showStatusIcon" value="false" />
+  </component>
+</application>

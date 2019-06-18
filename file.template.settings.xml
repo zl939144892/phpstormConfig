@@ -1,0 +1,14 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="PHP File.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="PHP Interface Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Trait Doc Comment.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <code_templates>
+      <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>

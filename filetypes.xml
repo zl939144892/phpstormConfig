@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
+      <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
+      <mapping ext="html" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
