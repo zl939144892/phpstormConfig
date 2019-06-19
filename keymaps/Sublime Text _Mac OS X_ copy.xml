@@ -55,5 +55,11 @@
   <action id="PrevTemplateParameter" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTemplateVariable" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="SearchEverywhere.PrevTab" />
 </keymap>
