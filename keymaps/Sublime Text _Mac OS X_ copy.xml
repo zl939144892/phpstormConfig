@@ -9,6 +9,14 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -17,6 +25,18 @@
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
@@ -27,8 +47,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="NextEditorTab" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousTemplateVariable" />
   <action id="SearchEverywhere.PrevTab" />
 </keymap>
