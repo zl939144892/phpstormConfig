@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Carrier" />
       <item value="Inside" />
       <item value="Existing" />
       <item value="get the user's active integration" />
@@ -11,12 +12,11 @@
       <item value="Need convert to the agencyNumber" />
       <item value="carrier information should be attached to policy" />
       <item value="insurance" />
-      <item value="strange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
