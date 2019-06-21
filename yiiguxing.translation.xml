@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Lead" />
       <item value="Reminders" />
       <item value="Reminder" />
       <item value="Medium" />
@@ -11,12 +12,11 @@
       <item value="Due" />
       <item value="Toggle" />
       <item value="separate" />
-      <item value="Modified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="260" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
