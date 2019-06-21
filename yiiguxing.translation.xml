@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="button" />
       <item value="progress" />
       <item value="process" />
       <item value="default duration in seconds before the cache will expire. If not set," />
@@ -11,12 +12,11 @@
       <item value="Medium" />
       <item value="High" />
       <item value="Priority" />
-      <item value="Deferred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
