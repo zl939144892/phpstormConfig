@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Reminders" />
+      <item value="Reminder" />
+      <item value="Medium" />
+      <item value="High" />
+      <item value="Priority" />
+      <item value="Deferred" />
+      <item value="Due" />
       <item value="Toggle" />
       <item value="separate" />
       <item value="Modified" />
-      <item value="Carrier" />
-      <item value="Inside" />
-      <item value="Existing" />
-      <item value="get the user's active integration" />
-      <item value="all other information can be build in to comments see PolicyImportService" />
-      <item value="will be fullfilled later, learn from haijian about more details" />
-      <item value="take the first policy's policySource as leadSource!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="259" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
