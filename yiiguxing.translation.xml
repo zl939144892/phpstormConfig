@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Considering move the bizBookService call into ApiService::syncBusinessData" />
+      <item value="What if sync data in progress? just ignore this exception?" />
+      <item value="Considering move the message to dead letter queue?" />
       <item value="switch" />
       <item value="Forbiden" />
       <item value="Judge" />
@@ -9,14 +12,11 @@
       <item value="Generate next sync time (start and end date)" />
       <item value="Syncer" />
       <item value="integration" />
-      <item value="journey" />
-      <item value="skeleton" />
-      <item value="Reflection is good but it's hard to maintain the logic. and displaying the skeleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="280" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
