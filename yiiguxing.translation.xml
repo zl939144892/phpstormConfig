@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Lock" />
+      <item value="force" />
       <item value="Please don't interrup the loop even if any exception was thrown." />
       <item value="Considering move the bizBookService call into ApiService::syncBusinessData" />
       <item value="What if sync data in progress? just ignore this exception?" />
@@ -10,13 +12,11 @@
       <item value="Forbiden" />
       <item value="Judge" />
       <item value="ensure" />
-      <item value="Generate next sync time (start and end date)" />
-      <item value="Syncer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="283" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
