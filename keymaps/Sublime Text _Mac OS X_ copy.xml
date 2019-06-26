@@ -56,7 +56,7 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousTemplateVariable" />
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
