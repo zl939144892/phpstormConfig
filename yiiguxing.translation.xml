@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="reassign" />
+      <item value="Mandatory" />
+      <item value="Migration" />
       <item value="referral" />
       <item value="MANUAL" />
       <item value="Umbrella" />
@@ -9,14 +12,11 @@
       <item value="When initializing qqCatalystService, set the cache and queue dynamically." />
       <item value="how the 'Sync Status: In Progress' according to" />
       <item value="Expiration" />
-      <item value="Premium" />
-      <item value="product Line Id" />
-      <item value="new BizBookService()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="307" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
