@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Premium" />
       <item value="Carrier" />
       <item value="scalar" />
       <item value="REQUESTED" />
@@ -11,12 +12,11 @@
       <item value="Mandatory" />
       <item value="Migration" />
       <item value="referral" />
-      <item value="MANUAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="313" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
