@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="REQUESTED" />
       <item value="topic" />
       <item value="parsed" />
       <item value="reassign" />
@@ -11,12 +12,11 @@
       <item value="MANUAL" />
       <item value="Umbrella" />
       <item value="Coverages" />
-      <item value="When initializing qqCatalystService, set the cache and queue dynamically." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="310" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
