@@ -44,6 +44,9 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl meta alt numpad3" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
   </action>
