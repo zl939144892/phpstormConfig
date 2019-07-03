@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Specified argument was out of the range of valid values" />
       <item value="process" />
       <item value="Multithreading need add lock" />
       <item value="Multithreading" />
@@ -11,12 +12,11 @@
       <item value="Carrier" />
       <item value="scalar" />
       <item value="REQUESTED" />
-      <item value="topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="319" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
