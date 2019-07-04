@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Replicate" />
       <item value="delta" />
       <item value="term" />
       <item value="Cloumn" />
@@ -11,12 +12,11 @@
       <item value="Multithreading" />
       <item value="Priority" />
       <item value="Assigned" />
-      <item value="Premium" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="323" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
