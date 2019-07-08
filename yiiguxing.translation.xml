@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="to ensure that integration()-related features work properly" />
+      <item value="related" />
+      <item value="Kit" />
+      <item value="category" />
       <item value="delta is the same concept with term in vendor" />
       <item value="semi" />
       <item value="OUTDATED" />
       <item value="outdated" />
       <item value="Replicate" />
       <item value="delta" />
-      <item value="term" />
-      <item value="Cloumn" />
-      <item value="Specified argument was out of the range of valid values" />
-      <item value="process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
