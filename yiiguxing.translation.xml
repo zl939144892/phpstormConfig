@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="de Active" />
       <item value="Sorts an array of objects or arrays (with the same structure) by one or several keys." />
       <item value="tokens" />
       <item value="The event handler must be a valid PHP callback. The following are" />
@@ -11,15 +12,14 @@
       <item value="deactive" />
       <item value="to ensure that integration()-related features work properly" />
       <item value="related" />
-      <item value="Kit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
+        <entry key="CHINESE" value="315" />
         <entry key="ENGLISH" value="338" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
