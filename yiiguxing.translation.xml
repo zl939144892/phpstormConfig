@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Availability" />
+      <item value="Appointment" />
+      <item value="Alter the timestamp of a DateTime object by incrementing or decrementing&#10;     * in a format accepted by strtotime()." />
+      <item value="Monday this week midnight" />
       <item value="haystack" />
       <item value="deactive" />
       <item value="de Active" />
       <item value="Sorts an array of objects or arrays (with the same structure) by one or several keys." />
       <item value="tokens" />
       <item value="The event handler must be a valid PHP callback. The following are" />
-      <item value="ttaches an event handler to an event." />
-      <item value="This method is the opposite of [[on()]]." />
-      <item value="Detaches an existing event handler from this component." />
-      <item value="to ensure that integration()-related features work properly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="343" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
