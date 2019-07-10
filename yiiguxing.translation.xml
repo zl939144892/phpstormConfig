@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Fixing buggy code." />
+      <item value="Going on a snowboarding trip." />
+      <item value="Cleaning GoogleGuy's apartment." />
       <item value="Availability" />
       <item value="Appointment" />
       <item value="Alter the timestamp of a DateTime object by incrementing or decrementing&#10;     * in a format accepted by strtotime()." />
@@ -9,14 +12,11 @@
       <item value="haystack" />
       <item value="deactive" />
       <item value="de Active" />
-      <item value="Sorts an array of objects or arrays (with the same structure) by one or several keys." />
-      <item value="tokens" />
-      <item value="The event handler must be a valid PHP callback. The following are" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="346" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
