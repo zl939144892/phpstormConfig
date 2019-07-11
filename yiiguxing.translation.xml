@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="replicate" />
       <item value="fetch" />
       <item value="discuss" />
       <item value="long polling" />
@@ -11,7 +12,6 @@
       <item value="Cleaning GoogleGuy's apartment." />
       <item value="Availability" />
       <item value="Appointment" />
-      <item value="Alter the timestamp of a DateTime object by incrementing or decrementing&#10;     * in a format accepted by strtotime()." />
     </histories>
     <option name="languageScores">
       <map>
