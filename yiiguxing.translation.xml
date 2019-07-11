@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="fetch" />
+      <item value="discuss" />
       <item value="long polling" />
       <item value="Lifecycle" />
       <item value="Fixing buggy code." />
@@ -10,13 +12,11 @@
       <item value="Availability" />
       <item value="Appointment" />
       <item value="Alter the timestamp of a DateTime object by incrementing or decrementing&#10;     * in a format accepted by strtotime()." />
-      <item value="Monday this week midnight" />
-      <item value="haystack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="348" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
