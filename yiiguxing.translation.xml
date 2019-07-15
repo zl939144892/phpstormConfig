@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Categ" />
       <item value="secound" />
       <item value="replicate" />
       <item value="fetch" />
@@ -11,7 +12,6 @@
       <item value="Fixing buggy code." />
       <item value="Going on a snowboarding trip." />
       <item value="Cleaning GoogleGuy's apartment." />
-      <item value="Availability" />
     </histories>
     <option name="languageScores">
       <map>
