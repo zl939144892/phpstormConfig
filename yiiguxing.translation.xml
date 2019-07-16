@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="System config will override the user custom mapping." />
       <item value="Let's save it productLine table with specific agencyId." />
       <item value="For QQ, EZLynx etc vendor may have custom policy types. For such custom policy type" />
       <item value="Categ" />
@@ -11,7 +12,6 @@
       <item value="discuss" />
       <item value="long polling" />
       <item value="Lifecycle" />
-      <item value="Fixing buggy code." />
     </histories>
     <option name="languageScores">
       <map>
