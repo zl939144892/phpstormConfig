@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Service that sync lead between agencyzoom and vendor." />
       <item value="Reference" />
       <item value="System config will override the user custom mapping." />
       <item value="Let's save it productLine table with specific agencyId." />
@@ -11,7 +12,6 @@
       <item value="replicate" />
       <item value="fetch" />
       <item value="discuss" />
-      <item value="long polling" />
     </histories>
     <option name="languageScores">
       <map>
