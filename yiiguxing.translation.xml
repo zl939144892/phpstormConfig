@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="reactivate" />
       <item value="We got vendorId from third party, there should be corresponding data." />
       <item value="Service that sync lead between agencyzoom and vendor." />
       <item value="Reference" />
@@ -11,7 +12,6 @@
       <item value="Categ" />
       <item value="secound" />
       <item value="replicate" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
