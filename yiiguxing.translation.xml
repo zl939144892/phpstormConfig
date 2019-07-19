@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="we are creating agent automatically for now" />
+      <item value="Customer Name in QQ can be string value! e.g. 'new' which is a illegal human name." />
       <item value="Don't DO it, let me handle" />
       <item value="trying to find the location by street address and city" />
-      <item value="we are creating agent automatically for now" />
       <item value="demand" />
       <item value="From" />
       <item value="reactivate" />
       <item value="We got vendorId from third party, there should be corresponding data." />
       <item value="Service that sync lead between agencyzoom and vendor." />
       <item value="Reference" />
-      <item value="System config will override the user custom mapping." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="356" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
