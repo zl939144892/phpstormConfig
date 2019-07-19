@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="replicate" />
       <item value="only replicate lead note" />
       <item value="we are creating agent automatically for now" />
       <item value="Customer Name in QQ can be string value! e.g. 'new' which is a illegal human name." />
@@ -11,12 +12,11 @@
       <item value="From" />
       <item value="reactivate" />
       <item value="We got vendorId from third party, there should be corresponding data." />
-      <item value="Service that sync lead between agencyzoom and vendor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="358" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
