@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="parse" />
       <item value="integration" />
       <item value="replicate" />
       <item value="only replicate lead note" />
@@ -11,12 +12,11 @@
       <item value="trying to find the location by street address and city" />
       <item value="demand" />
       <item value="From" />
-      <item value="reactivate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="360" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
