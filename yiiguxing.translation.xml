@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="all other information can be build in to comments see PolicyImportService" />
       <item value="guess" />
       <item value="Returns a value indicating whether the given array is an associative array." />
       <item value="Associative" />
@@ -11,12 +12,11 @@
       <item value="integration" />
       <item value="replicate" />
       <item value="only replicate lead note" />
-      <item value="we are creating agent automatically for now" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="366" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
