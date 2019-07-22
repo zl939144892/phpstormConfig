@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="In Agencyzoom, the policyNumber is optional field." />
+      <item value="premium" />
       <item value="Insert a dummy bizCustomer only with required information to mark the bizCustomer as existed entity." />
       <item value="In Agencyzoom, Lead is not attach to any location. Let's link all the leads to main location here" />
       <item value="all other information can be build in to comments see PolicyImportService" />
@@ -10,13 +12,11 @@
       <item value="Associative" />
       <item value="convert the associated array into index based" />
       <item value="load the user's beta invites" />
-      <item value="parse" />
-      <item value="integration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="371" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
