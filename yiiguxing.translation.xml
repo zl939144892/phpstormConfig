@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Sensitive" />
+      <item value="Removes items with matching values from the array and returns the removed items." />
       <item value="Closure" />
       <item value="dest" />
       <item value="panel" />
@@ -10,13 +12,11 @@
       <item value="Calendar" />
       <item value="Automatically sent 1 day before the pre-renewal/First year reminders go to the agency staff member" />
       <item value="flower" />
-      <item value="bug" />
-      <item value="bronze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="392" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
