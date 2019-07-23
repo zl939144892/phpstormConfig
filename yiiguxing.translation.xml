@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="create Date" />
       <item value="Whole" />
       <item value="Due" />
       <item value="Deferred" />
@@ -11,7 +12,6 @@
       <item value="In Agencyzoom, the policyNumber is optional field." />
       <item value="premium" />
       <item value="Insert a dummy bizCustomer only with required information to mark the bizCustomer as existed entity." />
-      <item value="In Agencyzoom, Lead is not attach to any location. Let's link all the leads to main location here" />
     </histories>
     <option name="languageScores">
       <map>
