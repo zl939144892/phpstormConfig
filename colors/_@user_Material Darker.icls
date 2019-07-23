@@ -4,7 +4,7 @@
     <property name="created">2018-07-29T17:05:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-06-19T15:52:37</property>
+    <property name="modified">2019-07-23T15:00:02</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -748,7 +748,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="848484" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -71179,7 +71179,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="868686" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -71193,7 +71193,7 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="FOREGROUND" value="868686" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

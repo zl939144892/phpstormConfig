@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="invoke" />
       <item value="create Date" />
       <item value="Whole" />
       <item value="Due" />
@@ -11,7 +12,6 @@
       <item value="To be discussed, not all the vendor has this limitation!" />
       <item value="In Agencyzoom, the policyNumber is optional field." />
       <item value="premium" />
-      <item value="Insert a dummy bizCustomer only with required information to mark the bizCustomer as existed entity." />
     </histories>
     <option name="languageScores">
       <map>
