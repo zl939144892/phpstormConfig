@@ -65,4 +65,7 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="SearchEverywhere.PrevTab" />
+  <action id="WelcomeScreen.Configure.Export">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
 </keymap>
