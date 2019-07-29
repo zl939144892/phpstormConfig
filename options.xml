@@ -1,0 +1,7 @@
+<application>
+  <component name="BWACSettings">
+    <option name="autoHighlight" value="true" />
+    <option name="wrapAround" value="true" />
+    <option name="humpBound" value="true" />
+  </component>
+</application>
