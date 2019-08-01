@@ -4,7 +4,7 @@
     <property name="created">2018-07-29T17:05:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-08-01T12:00:51</property>
+    <property name="modified">2019-08-01T16:31:21</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -1267,7 +1267,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="484c4e" />
         <option name="EFFECT_COLOR" value="fffbf7" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
@@ -72453,7 +72452,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="484c4e" />
         <option name="EFFECT_COLOR" value="fffbf7" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
