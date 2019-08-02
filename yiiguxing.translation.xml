@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="require" />
       <item value="Schema" />
       <item value="schemas" />
       <item value="exclude" />
@@ -11,12 +12,11 @@
       <item value="WON" />
       <item value="primary, secondary goal types in list" />
       <item value="Get summary sales data for dashboard" />
-      <item value="OPPORTUNITIES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="413" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
