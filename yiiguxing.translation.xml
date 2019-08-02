@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="example" />
       <item value="properties" />
       <item value="require" />
       <item value="Schema" />
@@ -11,12 +12,11 @@
       <item value="additional" />
       <item value="summary" />
       <item value="WON" />
-      <item value="primary, secondary goal types in list" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="415" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
