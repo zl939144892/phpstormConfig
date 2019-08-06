@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="available" />
       <item value="columns" />
       <item value="fields" />
       <item value="return an instance of CustomerSearchResult" />
@@ -11,12 +12,11 @@
       <item value="require" />
       <item value="Schema" />
       <item value="schemas" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="420" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
