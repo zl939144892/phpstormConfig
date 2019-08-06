@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="cascade" />
       <item value="example" />
       <item value="properties" />
       <item value="require" />
@@ -11,12 +12,11 @@
       <item value="operation" />
       <item value="additional" />
       <item value="summary" />
-      <item value="WON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="416" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
