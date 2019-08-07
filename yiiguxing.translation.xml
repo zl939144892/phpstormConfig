@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="the contact info should be using contactDate, not in the history" />
       <item value="Span" />
       <item value="normalize" />
       <item value="Clause" />
@@ -11,12 +12,11 @@
       <item value="available" />
       <item value="columns" />
       <item value="fields" />
-      <item value="return an instance of CustomerSearchResult" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="427" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
