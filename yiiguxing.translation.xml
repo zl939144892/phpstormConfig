@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="normalize" />
+      <item value="Clause" />
       <item value="groupBys is tranlated into table columns" />
       <item value="period" />
       <item value="creation" />
@@ -10,13 +12,11 @@
       <item value="fields" />
       <item value="return an instance of CustomerSearchResult" />
       <item value="cascade" />
-      <item value="example" />
-      <item value="properties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="425" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
