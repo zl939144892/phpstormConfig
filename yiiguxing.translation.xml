@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Sensitive" />
       <item value="compare" />
       <item value="Compare" />
       <item value="Insensitive" />
@@ -11,12 +12,11 @@
       <item value="Clause" />
       <item value="groupBys is tranlated into table columns" />
       <item value="period" />
-      <item value="creation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="431" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
