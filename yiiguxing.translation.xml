@@ -2,11 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Analytics" />
       <item value="partner" />
       <item value="Category" />
       <item value="Farmers" />
       <item value="period" />
-      <item value="Analytics" />
       <item value="refine" />
       <item value="metrics" />
       <item value="conversion" />
@@ -15,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="440" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
