@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="his is just like the UI we did for adding new customer." />
+      <item value="Let's considering set the first policy's policySource as customerSource." />
+      <item value="Customer Source is not needed, customerSource info is not attach to the Contacts list." />
       <item value="should be unique and it doesn't make sense save name has different id." />
       <item value="I intentionally let name as vendorId, as normally name" />
       <item value="Persistent" />
@@ -9,14 +12,11 @@
       <item value="Retrieves the message's request target." />
       <item value="Outgoing request" />
       <item value="Outgoing" />
-      <item value="Used by both CSV import and api sync." />
-      <item value="Mainly used for map data steps in integration wizard." />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="456" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
