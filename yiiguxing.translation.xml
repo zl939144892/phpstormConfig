@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Allstate" />
+      <item value="default replicate all and integration table options is null. code in  integration model" />
       <item value="items" />
       <item value="his is just like the UI we did for adding new customer." />
       <item value="Let's considering set the first policy's policySource as customerSource." />
@@ -10,13 +12,11 @@
       <item value="I intentionally let name as vendorId, as normally name" />
       <item value="Persistent" />
       <item value="Take the configured mapping in admin UI as high priority!" />
-      <item value="Retrieves the message's request target." />
-      <item value="Outgoing request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="459" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
