@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Publisher" />
       <item value="template" />
       <item value="If not null, will judge stage before replicate to vendor." />
       <item value="Allstate" />
@@ -11,12 +12,11 @@
       <item value="Let's considering set the first policy's policySource as customerSource." />
       <item value="Customer Source is not needed, customerSource info is not attach to the Contacts list." />
       <item value="should be unique and it doesn't make sense save name has different id." />
-      <item value="I intentionally let name as vendorId, as normally name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="462" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
