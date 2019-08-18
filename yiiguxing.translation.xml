@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="insert a secret key in the following (if it is empty) - this is required by cookie validation" />
+      <item value="verbs" />
+      <item value="the additional name-value pairs given in the rule" />
+      <item value="identity" />
+      <item value="the attribute currently being validated" />
+      <item value="string $attribute the attribute currently being validated" />
+      <item value="components" />
+      <item value="componetns" />
+      <item value="Component" />
       <item value="duration" />
-      <item value="This is a two-dimensional array, $idName field must exist, all secondary array keys must be consistent" />
-      <item value="Publisher" />
-      <item value="template" />
-      <item value="If not null, will judge stage before replicate to vendor." />
-      <item value="Allstate" />
-      <item value="default replicate all and integration table options is null. code in  integration model" />
-      <item value="items" />
-      <item value="his is just like the UI we did for adding new customer." />
-      <item value="Let's considering set the first policy's policySource as customerSource." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="471" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
