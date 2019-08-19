@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="whether to enable cookie-based login. Defaults to `false`." />
+      <item value="Note that this property will be ignored if [[enableSession]] is `false`." />
       <item value="since 2.0.14. On PHP &gt;=5.5, use `::class` instead." />
       <item value="Incorrect" />
       <item value="Checks if the `Accept` header contains a content type that allows redirection to the login page." />
@@ -10,13 +12,11 @@
       <item value="insert a secret key in the following (if it is empty) - this is required by cookie validation" />
       <item value="verbs" />
       <item value="the additional name-value pairs given in the rule" />
-      <item value="identity" />
-      <item value="the attribute currently being validated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="478" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
