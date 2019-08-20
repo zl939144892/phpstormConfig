@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="HttpBearerAuth is an action filter that supports the authentication method based on HTTP Bearer token." />
+      <item value="Bearer" />
+      <item value="a pattern to use to extract the HTTP authentication value" />
       <item value="Pattern" />
       <item value="Identity" />
       <item value="is an action filter that supports the authentication based on the access token passed through a query parameter." />
@@ -9,14 +12,11 @@
       <item value="Note that this property will be ignored if [[enableSession]] is `false`." />
       <item value="since 2.0.14. On PHP &gt;=5.5, use `::class` instead." />
       <item value="Incorrect" />
-      <item value="Checks if the `Accept` header contains a content type that allows redirection to the login page." />
-      <item value="convert into Est as our lead/policy are using est time" />
-      <item value="only these roles are allowed to access" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="484" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
