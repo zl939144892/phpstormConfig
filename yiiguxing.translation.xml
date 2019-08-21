@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Set the value and expiration of a key" />
+      <item value="Bulk replies" />
       <item value="$values must be a two-dimensional array, $idName field must exist in $value" />
       <item value="$idName field must exist" />
       <item value="The first argument must be a two-dimensional array" />
@@ -10,13 +12,11 @@
       <item value="Truncates a string to the number of words specified." />
       <item value="uncomment to avoid processing of calls to non-existing static files by Yii" />
       <item value="Schema cache options (for production environment)" />
-      <item value="HttpBearerAuth is an action filter that supports the authentication method based on HTTP Bearer token." />
-      <item value="Bearer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="494" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
