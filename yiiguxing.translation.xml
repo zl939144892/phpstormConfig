@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="INACTIVE" />
       <item value="Set the value and expiration of a key" />
       <item value="Bulk replies" />
       <item value="$values must be a two-dimensional array, $idName field must exist in $value" />
@@ -11,12 +12,11 @@
       <item value="The first param is a two-dimensional array" />
       <item value="Truncates a string to the number of words specified." />
       <item value="uncomment to avoid processing of calls to non-existing static files by Yii" />
-      <item value="Schema cache options (for production environment)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="494" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="495" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
