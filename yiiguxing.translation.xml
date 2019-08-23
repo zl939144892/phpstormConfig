@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="bulk" />
       <item value="If the user does not have access, a [[ForbiddenHttpException]] should be thrown." />
       <item value="to run the specified action against the specified data model." />
       <item value="This method should be overridden to check whether the current user has the privilege" />
@@ -11,12 +12,11 @@
       <item value="Set the value and expiration of a key" />
       <item value="Bulk replies" />
       <item value="$values must be a two-dimensional array, $idName field must exist in $value" />
-      <item value="$idName field must exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="501" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
