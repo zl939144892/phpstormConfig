@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="If the user does not have access, a [[ForbiddenHttpException]] should be thrown." />
+      <item value="to run the specified action against the specified data model." />
+      <item value="This method should be overridden to check whether the current user has the privilege" />
+      <item value="Checks the privilege of the current user." />
       <item value="class Name" />
       <item value="INACTIVE" />
       <item value="Set the value and expiration of a key" />
       <item value="Bulk replies" />
       <item value="$values must be a two-dimensional array, $idName field must exist in $value" />
       <item value="$idName field must exist" />
-      <item value="The first argument must be a two-dimensional array" />
-      <item value="The first param must a two-dimensional array" />
-      <item value="The first param is a two-dimensional array" />
-      <item value="Truncates a string to the number of words specified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="500" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
