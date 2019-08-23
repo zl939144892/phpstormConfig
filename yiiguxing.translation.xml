@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="policy Type Mapper" />
+      <item value="don't update matchedPolicyId, otherwise will lose map relation" />
+      <item value="can't update matchedPolicyId, otherwise will lose map relation" />
       <item value="the policyNumber is optional field." />
       <item value="Prevent duplicate replicate lead to integration" />
       <item value="Find mapped agentId from vendorProducer table first." />
@@ -9,14 +12,11 @@
       <item value="If the user does not have access, a [[ForbiddenHttpException]] should be thrown." />
       <item value="to run the specified action against the specified data model." />
       <item value="This method should be overridden to check whether the current user has the privilege" />
-      <item value="Checks the privilege of the current user." />
-      <item value="class Name" />
-      <item value="INACTIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="506" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
