@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Skip map this producer" />
       <item value="business" />
       <item value="bootstrap" />
       <item value="popover" />
@@ -11,12 +12,11 @@
       <item value="don't update matchedPolicyId, otherwise will lose map relation" />
       <item value="can't update matchedPolicyId, otherwise will lose map relation" />
       <item value="the policyNumber is optional field." />
-      <item value="Prevent duplicate replicate lead to integration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="512" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
