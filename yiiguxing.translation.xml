@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Counters" />
       <item value="withdraw" />
       <item value="separate" />
       <item value="Dropdown" />
@@ -11,12 +12,11 @@
       <item value="Skip map this producer" />
       <item value="business" />
       <item value="bootstrap" />
-      <item value="popover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="519" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
