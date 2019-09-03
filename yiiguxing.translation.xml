@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="formal" />
       <item value="drillable" />
       <item value="date" />
       <item value="whether cookie should be sent via secure connection" />
@@ -11,12 +12,11 @@
       <item value="Dropdown" />
       <item value="A safe attribute is one that is associated with a validation rule in the current [[scenario]]." />
       <item value="whether the assignments should only be done to the safe attributes." />
-      <item value="Here dont' need to sync the location data as we already synced in the beforeAction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="522" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="523" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
