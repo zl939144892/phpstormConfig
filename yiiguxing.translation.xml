@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="probability" />
       <item value="Pool" />
       <item value="solid" />
       <item value="Drag" />
@@ -11,12 +12,11 @@
       <item value="formal" />
       <item value="drillable" />
       <item value="date" />
-      <item value="whether cookie should be sent via secure connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="531" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
