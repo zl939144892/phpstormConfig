@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Format" />
       <item value="personate" />
       <item value="suggest" />
       <item value="probability" />
@@ -11,7 +12,6 @@
       <item value="Drop" />
       <item value="Partner" />
       <item value="drop" />
-      <item value="formal" />
     </histories>
     <option name="languageScores">
       <map>
