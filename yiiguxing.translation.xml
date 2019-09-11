@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="regdel" />
       <item value="striped" />
       <item value="condensed" />
       <item value="Renders a view without applying layout." />
@@ -11,15 +12,15 @@
       <item value="favorabl" />
       <item value="con" />
       <item value="Format" />
-      <item value="personate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
+        <entry key="CHINESE" value="524" />
         <entry key="ENGLISH" value="541" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
