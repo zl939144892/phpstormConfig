@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="record" />
+      <item value="recorder" />
       <item value="condition" />
       <item value="siblings" />
       <item value="set true to use password-based key derivation" />
@@ -10,13 +12,11 @@
       <item value="condensed" />
       <item value="Renders a view without applying layout." />
       <item value="Ignore" />
-      <item value="Determines if the instance is greater (after) than or equal to another" />
-      <item value="favorable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="529" />
+        <entry key="ENGLISH" value="546" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
