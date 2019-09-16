@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="prepend" />
       <item value="Compensation" />
       <item value="sonate" />
       <item value="collapse" />
@@ -11,12 +12,11 @@
       <item value="condition" />
       <item value="siblings" />
       <item value="set true to use password-based key derivation" />
-      <item value="regdel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="534" />
+        <entry key="ENGLISH" value="550" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
