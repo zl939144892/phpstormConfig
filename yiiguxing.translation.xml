@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Refund" />
       <item value="mixing" />
       <item value="public static function mixing" />
       <item value="minute" />
@@ -11,12 +12,11 @@
       <item value="MUM" />
       <item value="apply" />
       <item value="EXIST" />
-      <item value="user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="551" />
+        <entry key="ENGLISH" value="566" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
