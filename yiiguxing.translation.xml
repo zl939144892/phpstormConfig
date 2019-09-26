@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="pass" />
+      <item value="Please don't pass null as params" />
       <item value="Drop" />
       <item value="show" />
       <item value="drag" />
@@ -10,13 +12,11 @@
       <item value="solid" />
       <item value="Insurance" />
       <item value="scoll" />
-      <item value="list of bundle class names that this bundle depends on." />
-      <item value="depends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="578" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
