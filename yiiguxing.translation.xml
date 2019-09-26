@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Contact" />
+      <item value="Contant" />
       <item value="pass" />
       <item value="Please don't pass null as params" />
       <item value="Drop" />
@@ -10,18 +12,16 @@
       <item value="category" />
       <item value="fluid" />
       <item value="solid" />
-      <item value="Insurance" />
-      <item value="scoll" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="579" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
