@@ -6,6 +6,14 @@
     <keyboard-shortcut first-keystroke="shift meta v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
@@ -26,6 +34,7 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -56,6 +65,7 @@
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="ctrl meta alt numpad3" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -85,6 +95,9 @@
   </action>
   <action id="ViewToolBar">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
