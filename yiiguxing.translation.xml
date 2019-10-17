@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Trigger" />
       <item value="Assignee" />
       <item value="A new almanac is used for every engine run()" />
       <item value="Triggers fact computations and saves the results" />
@@ -11,12 +12,11 @@
       <item value="Cancellation" />
       <item value="referred" />
       <item value="assignees" />
-      <item value="Specifies the relations with which this query should be performed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="614" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="615" />
+        <entry key="ENGLISH" value="627" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
