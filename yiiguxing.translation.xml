@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="gender" />
       <item value="mixing" />
       <item value="actual" />
       <item value="expected" />
@@ -11,12 +12,11 @@
       <item value="metrics" />
       <item value="Trigger" />
       <item value="Assignee" />
-      <item value="A new almanac is used for every engine run()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="623" />
+        <entry key="ENGLISH" value="634" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
