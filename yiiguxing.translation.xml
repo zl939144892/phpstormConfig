@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Returns the first error of the specified attribute." />
       <item value="the additional fields being requested for exporting" />
       <item value="the fields being requested." />
       <item value="incorrect" />
@@ -11,12 +12,11 @@
       <item value="Utility" />
       <item value="assigned" />
       <item value="instead" />
-      <item value="use scenario instead of event type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="639" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="651" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
