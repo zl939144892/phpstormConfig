@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Form" />
+      <item value="From" />
       <item value="discount" />
       <item value="estimate" />
       <item value="preg" />
@@ -10,13 +12,11 @@
       <item value="the fields being requested." />
       <item value="incorrect" />
       <item value="district" />
-      <item value="enclosure" />
-      <item value="The reason we use cmd line rather than HTTP end point is that it is less resource intensive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="645" />
+        <entry key="ENGLISH" value="655" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
