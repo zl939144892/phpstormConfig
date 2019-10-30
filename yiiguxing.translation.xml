@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="discount" />
+      <item value="estimate" />
       <item value="preg" />
       <item value="Returns the first error of the specified attribute." />
       <item value="the additional fields being requested for exporting" />
@@ -10,13 +12,11 @@
       <item value="district" />
       <item value="enclosure" />
       <item value="The reason we use cmd line rather than HTTP end point is that it is less resource intensive" />
-      <item value="Utility" />
-      <item value="assigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="641" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="653" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
