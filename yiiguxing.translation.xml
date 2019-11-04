@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Refdata" />
       <item value="Tagify" />
       <item value="subscribe" />
       <item value="Estimate" />
@@ -11,11 +12,10 @@
       <item value="A safe attribute is one that is associated with a validation rule in the current [[scenario]]." />
       <item value="whether the assignments should only be done to the safe attributes." />
       <item value="Check if there are any automatically generated tasks" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
+        <entry key="CHINESE" value="658" />
         <entry key="ENGLISH" value="665" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
@@ -28,6 +28,7 @@
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
