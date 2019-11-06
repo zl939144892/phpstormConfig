@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="grab" />
+      <item value="expected" />
       <item value="identity" />
       <item value="This is a workaround that allow submit form with disabled field values." />
       <item value="generic" />
@@ -10,13 +12,11 @@
       <item value="toggle" />
       <item value="template" />
       <item value="escape" />
-      <item value="subject" />
-      <item value="Refdata" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="669" />
+        <entry key="ENGLISH" value="676" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="1" />
