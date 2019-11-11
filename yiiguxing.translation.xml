@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="invoke" />
       <item value="four" />
       <item value="normalize" />
       <item value="Seventy" />
@@ -10,13 +11,12 @@
       <item value="evaluate" />
       <item value="Seven" />
       <item value="Remove days from the instance" />
-      <item value="invoke" />
       <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="681" />
-        <entry key="ENGLISH" value="687" />
+        <entry key="CHINESE" value="682" />
+        <entry key="ENGLISH" value="688" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
