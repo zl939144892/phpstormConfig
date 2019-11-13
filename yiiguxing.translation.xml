@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="twice" />
+      <item value="FIELD" />
       <item value="Neglected Lead Settings" />
       <item value="rand" />
       <item value="Generate" />
@@ -10,13 +12,11 @@
       <item value="normalize" />
       <item value="Seventy" />
       <item value="Five" />
-      <item value="Ten" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="692" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
