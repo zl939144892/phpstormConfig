@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="populate" />
+      <item value="Processor" />
       <item value="process" />
       <item value="twice" />
       <item value="FIELD" />
@@ -10,13 +12,11 @@
       <item value="Generate" />
       <item value="invoke" />
       <item value="four" />
-      <item value="normalize" />
-      <item value="Seventy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="693" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="695" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
