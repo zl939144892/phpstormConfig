@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="process" />
+      <item value="This is different from SMS service. We are providing a delegate layer between service and http request. " />
       <item value="populate" />
       <item value="Processor" />
-      <item value="process" />
       <item value="twice" />
       <item value="FIELD" />
       <item value="Neglected Lead Settings" />
       <item value="rand" />
       <item value="Generate" />
       <item value="invoke" />
-      <item value="four" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="695" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="697" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
