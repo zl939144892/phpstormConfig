@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="populate" />
+      <item value="show the actual text here" />
+      <item value="actual" />
+      <item value="you need load the full list of templates. Don't use the list in the selection box" />
       <item value="Converts found rows into model instances." />
       <item value="onverts found rows into model instances." />
       <item value="recipients" />
       <item value="process" />
       <item value="This is different from SMS service. We are providing a delegate layer between service and http request. " />
-      <item value="populate" />
       <item value="Processor" />
-      <item value="twice" />
-      <item value="FIELD" />
-      <item value="Neglected Lead Settings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="694" />
-        <entry key="ENGLISH" value="699" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="703" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
