@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="sanitize" />
       <item value="Essential" />
       <item value="populate" />
       <item value="depending on the type of llinked object, do something link: " />
@@ -11,12 +12,11 @@
       <item value="match Visual" />
       <item value="clipboard" />
       <item value="depending on the type of llinked object, do something link" />
-      <item value="show the actual text here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="708" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="CHINESE" value="709" />
+        <entry key="ENGLISH" value="714" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
