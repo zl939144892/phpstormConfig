@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="property" />
       <item value="uniquely" />
       <item value="agentId is the one agent who was assigned to the TO field, uniquely " />
       <item value="incoming message" />
@@ -11,12 +12,11 @@
       <item value="depending on the type of llinked object, do something link: " />
       <item value="Lead assignment group" />
       <item value="need register a close hook here to update activities when text is sent" />
-      <item value=" need register a close hook here to update activities when text is sent SmsDock" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="717" />
+        <entry key="CHINESE" value="713" />
+        <entry key="ENGLISH" value="718" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
