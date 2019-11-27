@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="agent" />
       <item value="Click to play." />
       <item value="had less digits than any valid phone number" />
       <item value="This indicates the string started with an international dialing prefix" />
@@ -11,7 +12,6 @@
       <item value="Creation" />
       <item value="Summary" />
       <item value="property" />
-      <item value="uniquely" />
     </histories>
     <option name="languageScores">
       <map>
