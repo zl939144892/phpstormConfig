@@ -6,12 +6,11 @@
         <option value="Chinese" />
       </set>
     </option>
-    <option name="enabledSpellcheck" value="true" />
     <option name="userDisabledRules">
       <set>
         <option value="PASSIVE_VOICE" />
       </set>
     </option>
-    <option name="lastSeenVersion" value="2019.2-5.3.stable" />
+    <option name="lastSeenVersion" value="2019.3-6.2.stable" />
   </component>
 </application>
