@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="The reason we use cmd line rather than HTTP end point is that it is less resource intensive" />
+      <item value="container" />
       <item value="process" />
       <item value="UNSPECIFIED" />
       <item value="assignment" />
@@ -10,13 +12,11 @@
       <item value="evaluate" />
       <item value="radio" />
       <item value="phase" />
-      <item value="agent" />
-      <item value="Click to play." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="730" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="737" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
