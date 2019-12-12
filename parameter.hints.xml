@@ -2,5 +2,8 @@
   <component name="ParameterNameHintsSettings">
     <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="sql.show.column.names.in.select" value="true" />
+    <disabledLanguages>
+      <language id="PHP" />
+    </disabledLanguages>
   </component>
 </application>
