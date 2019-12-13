@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="firstname" />
       <item value="period" />
       <item value="span" />
       <item value="Panel" />
@@ -11,12 +12,11 @@
       <item value="container" />
       <item value="process" />
       <item value="UNSPECIFIED" />
-      <item value="assignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="743" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
