@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="animation" />
       <item value="form" />
       <item value="Check if there are any automatically generated tasks" />
       <item value="Creator" />
@@ -11,12 +12,11 @@
       <item value="span" />
       <item value="Panel" />
       <item value="/**&#10; * Searches the array for a given value and returns the corresponding key if successful&#10; * @link https://php.net/manual/en/function.array-search.php&#10; * @param mixed $needle &lt;p&gt;&#10; * The searched value.&#10; * &lt;/p&gt;&#10; * &lt;p&gt;&#10; * If needle is a string, the comparison is done&#10; * in a case-sensitive manner.&#10; * &lt;/p&gt;&#10; * @param array $haystack &lt;p&gt;&#10; * The array.&#10; * &lt;/p&gt;&#10; * @param bool $strict [optional] &lt;p&gt;&#10; * If the third parameter strict is set to true&#10; * then the array_search function will also check the&#10; * types of the&#10; * needle in the haystack.&#10; * &lt;/p&gt;&#10; * @return int|string|false the key for needle if it is found in the&#10; * array, false otherwise.&#10; * &lt;/p&gt;&#10; * &lt;p&gt;&#10; * If needle is found in haystack&#10; * more than once, the first matching key is returned. To return the keys for&#10; * all matching values, use array_keys with the optional&#10; * search_value parameter instead.&#10; * @since 4.0.5&#10; * @since 5.0&#10; */" />
-      <item value="combined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="742" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="748" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
