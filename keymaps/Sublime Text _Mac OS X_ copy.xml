@@ -1,4 +1,8 @@
 <keymap version="1" name="Sublime Text (Mac OS X) copy" parent="Sublime Text (Mac OS X)">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -25,6 +29,10 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -54,6 +62,12 @@
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta back_space" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -74,6 +88,10 @@
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="ctrl meta alt numpad3" />
+  </action>
+  <action id="ExternalSystem.DetachProject">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
@@ -105,6 +123,10 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ViewToolBar">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -112,5 +134,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="XDebugger.SetValue" />
 </keymap>
