@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="is where the business logic goes." />
       <item value="using ngrok Tunneling" />
       <item value="popover" />
       <item value="Period" />
@@ -11,12 +12,11 @@
       <item value="animation" />
       <item value="form" />
       <item value="Check if there are any automatically generated tasks" />
-      <item value="Creator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="749" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="755" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
