@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="perform" />
+      <item value="Subscribe" />
       <item value="Alternatively, a static field definition should be provided, to specify labels for the fields" />
       <item value="Alternatively" />
       <item value="subscribe" />
@@ -10,13 +12,11 @@
       <item value="popover" />
       <item value="Period" />
       <item value="appointments" />
-      <item value="divider" />
-      <item value="height" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="CHINESE" value="755" />
+        <entry key="ENGLISH" value="760" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
