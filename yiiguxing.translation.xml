@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="nock" />
+      <item value="noun" />
       <item value="dynamic" />
       <item value="Lead live feed for testing" />
       <item value="bundle" />
@@ -10,13 +12,11 @@
       <item value="Alternatively, a static field definition should be provided, to specify labels for the fields" />
       <item value="Alternatively" />
       <item value="subscribe" />
-      <item value="is where the business logic goes." />
-      <item value="using ngrok Tunneling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="760" />
+        <entry key="ENGLISH" value="765" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
