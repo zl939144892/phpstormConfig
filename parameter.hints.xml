@@ -3,6 +3,7 @@
     <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="sql.show.column.names.in.select" value="true" />
     <disabledLanguages>
+      <language id="SCSS" />
       <language id="PHP" />
     </disabledLanguages>
   </component>
