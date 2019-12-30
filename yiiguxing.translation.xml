@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="producer" />
       <item value="Select a producer who will be marked as the owner of this lead. If omitted, the agency owner will be used." />
       <item value="nock" />
       <item value="noun" />
@@ -11,12 +12,11 @@
       <item value="perform" />
       <item value="Subscribe" />
       <item value="Alternatively, a static field definition should be provided, to specify labels for the fields" />
-      <item value="Alternatively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="766" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="767" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
