@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="body" />
       <item value="producer" />
       <item value="Select a producer who will be marked as the owner of this lead. If omitted, the agency owner will be used." />
       <item value="nock" />
@@ -11,7 +12,6 @@
       <item value="bundle" />
       <item value="perform" />
       <item value="Subscribe" />
-      <item value="Alternatively, a static field definition should be provided, to specify labels for the fields" />
     </histories>
     <option name="languageScores">
       <map>
