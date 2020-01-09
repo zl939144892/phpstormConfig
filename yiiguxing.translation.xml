@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="entry" />
+      <item value="create an entry in customerReferral" />
       <item value="counter" />
       <item value="sanitize Phone For Prefix Matching" />
       <item value="sanitize" />
@@ -10,13 +12,11 @@
       <item value="custom Field Entity Type" />
       <item value="Custom" />
       <item value="feed" />
-      <item value="3511" />
-      <item value="Lead in transition fields for testing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="775" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="777" />
+        <entry key="ENGLISH" value="781" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
