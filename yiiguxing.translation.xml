@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="counter" />
       <item value="sanitize Phone For Prefix Matching" />
       <item value="sanitize" />
       <item value="get Round Robin Assignee" />
@@ -11,12 +12,11 @@
       <item value="feed" />
       <item value="3511" />
       <item value="Lead in transition fields for testing" />
-      <item value="bundle.cleanedRequest will include the parsed JSON object (if it's not a test poll) and also a .querystring property with the URL's query string." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="775" />
+        <entry key="ENGLISH" value="779" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
