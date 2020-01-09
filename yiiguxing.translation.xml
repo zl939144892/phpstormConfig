@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="sanitize Phone For Prefix Matching" />
+      <item value="sanitize" />
       <item value="get Round Robin Assignee" />
       <item value="This is a two-dimensional array, $idName field must exist in $value, all secondary array keys must be consistent." />
       <item value="custom Field Entity Type" />
@@ -10,13 +12,11 @@
       <item value="3511" />
       <item value="Lead in transition fields for testing" />
       <item value="bundle.cleanedRequest will include the parsed JSON object (if it's not a test poll) and also a .querystring property with the URL's query string." />
-      <item value="Subscribe" />
-      <item value="Evaluate rules" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="772" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="778" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
