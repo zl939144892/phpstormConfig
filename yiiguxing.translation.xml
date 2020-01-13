@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="TIMESTAMP" />
+      <item value="replicated" />
       <item value="Partial" />
       <item value="entry" />
       <item value="create an entry in customerReferral" />
@@ -10,13 +12,11 @@
       <item value="sanitize" />
       <item value="get Round Robin Assignee" />
       <item value="This is a two-dimensional array, $idName field must exist in $value, all secondary array keys must be consistent." />
-      <item value="custom Field Entity Type" />
-      <item value="Custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="778" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="780" />
+        <entry key="ENGLISH" value="784" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
