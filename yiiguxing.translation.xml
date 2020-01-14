@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="NULL" />
+      <item value="Entries" />
+      <item value="process" />
       <item value="from" />
       <item value="Prevent" />
       <item value="Dirty" />
@@ -9,14 +12,11 @@
       <item value="replicated" />
       <item value="Partial" />
       <item value="entry" />
-      <item value="create an entry in customerReferral" />
-      <item value="counter" />
-      <item value="sanitize Phone For Prefix Matching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="783" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="790" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="2" />
         <entry key="POLISH" value="2" />
