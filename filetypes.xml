@@ -6,6 +6,7 @@
       <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
+      <mapping pattern=".zapierapprc" type="PLAIN_TEXT" />
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
       <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
