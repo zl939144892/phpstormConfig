@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="This is for dev convenience as the column has been added to the table definition" />
       <item value="If array has duplicate item, data will be inaccurate." />
       <item value="If array hss duplicate item, data will be inaccurate." />
       <item value="position at first" />
@@ -11,12 +12,11 @@
       <item value="basic" />
       <item value="striped" />
       <item value="Enroll" />
-      <item value="Customize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="CHINESE" value="808" />
+        <entry key="ENGLISH" value="811" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
