@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="ALTER" />
       <item value="Survey" />
       <item value="This is for dev convenience as the column has been added to the table definition" />
       <item value="If array has duplicate item, data will be inaccurate." />
@@ -11,16 +12,15 @@
       <item value="Originated" />
       <item value="since" />
       <item value="basic" />
-      <item value="striped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
+        <entry key="CHINESE" value="810" />
         <entry key="ENGLISH" value="812" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
