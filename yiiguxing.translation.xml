@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Authenticates" />
       <item value="The attributes that are mass assignable." />
       <item value="guard" />
       <item value="critical" />
@@ -11,12 +12,11 @@
       <item value="Deferrable" />
       <item value="Illuminate" />
       <item value="Sensitive" />
-      <item value="deactivated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
-        <entry key="ENGLISH" value="834" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="835" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
