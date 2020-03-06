@@ -2,31 +2,31 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
-      <item value="paginate" />
-      <item value="Get the registered name of the component." />
-      <item value="Convert the given string to lower-case." />
-      <item value="Authenticates" />
-      <item value="The attributes that are mass assignable." />
-      <item value="guard" />
-      <item value="critical" />
-      <item value="single" />
-      <item value="Priority" />
-      <item value="Closure" />
+      <item value="deprecated" />
+      <item value="splice" />
+      <item value="del Tip" />
+      <item value="Convert special HTML entities back to characters" />
+      <item value="shield" />
+      <item value="I\'m getting worried" />
+      <item value="essentials" />
+      <item value="Do you have these essentials covered?" />
+      <item value="Are you ready to discuss the next steps?" />
+      <item value="mutual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="CHINESE" value="877" />
+        <entry key="ENGLISH" value="878" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
-        <entry key="GERMAN" value="3" />
+        <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="3" />
+        <entry key="ROMANIAN" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
