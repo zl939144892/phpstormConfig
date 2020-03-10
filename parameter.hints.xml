@@ -5,7 +5,6 @@
     <disabledLanguages>
       <language id="SCSS" />
       <language id="JavaScript" />
-      <language id="PHP" />
     </disabledLanguages>
   </component>
 </application>
