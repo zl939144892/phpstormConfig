@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="no need for emails as we have full details in timeline" />
       <item value="Consolidate" />
       <item value="DELIMITER" />
       <item value="use and impl below functions to get information" />
@@ -11,7 +12,6 @@
       <item value="entries" />
       <item value="If has life &amp; health entries, then includes CustomerFact::CUSTOMER_TYPE_LIFE" />
       <item value="combination" />
-      <item value="precision" />
     </histories>
     <option name="languageScores">
       <map>
