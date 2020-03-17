@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="This method was being called when user modify P&amp;C Policies in customer profile page" />
       <item value="Reload" />
       <item value="truncate" />
       <item value="no need for emails as we have full details in timeline" />
@@ -11,12 +12,11 @@
       <item value="But please bring in mind that PLEASE DONT LOOP THE POLICES. Just use few db queries the information in once." />
       <item value="Please use below logic for fetching productLineIds." />
       <item value=" distinct productLine of policy index by householdId" />
-      <item value="entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="909" />
-        <entry key="ENGLISH" value="910" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
