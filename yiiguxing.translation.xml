@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="flatten" />
       <item value="Modified" />
       <item value="The customerTypes &amp; lifecycleStages should be a int value and use bit operation to get final result" />
       <item value="This method was being called when user modify P&amp;C Policies in customer profile page" />
@@ -11,12 +12,11 @@
       <item value="Consolidate" />
       <item value="DELIMITER" />
       <item value="use and impl below functions to get information" />
-      <item value="But please bring in mind that PLEASE DONT LOOP THE POLICES. Just use few db queries the information in once." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
-        <entry key="ENGLISH" value="913" />
+        <entry key="CHINESE" value="913" />
+        <entry key="ENGLISH" value="914" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
