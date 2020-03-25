@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="button" />
       <item value="surround" />
       <item value="abnormal" />
       <item value="Pls enter correct agencyId" />
@@ -11,7 +12,6 @@
       <item value="combined" />
       <item value="field" />
       <item value="flatten" />
-      <item value="The customerTypes &amp; lifecycleStages should be a int value and use bit operation to get final result" />
     </histories>
     <option name="languageScores">
       <map>
