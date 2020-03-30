@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Criteria" />
+      <item value="creation" />
       <item value="populate" />
       <item value="button" />
       <item value="surround" />
@@ -10,13 +12,11 @@
       <item value="defined in a previous version when assignment group is NOT selectable" />
       <item value="cascade" />
       <item value="Modified" />
-      <item value="combined" />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="923" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="925" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
