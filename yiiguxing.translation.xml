@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="add Product Ref Data" />
       <item value="addtouchpoint" />
       <item value="Criteria" />
       <item value="creation" />
@@ -11,7 +12,6 @@
       <item value="abnormal" />
       <item value="Pls enter correct agencyId" />
       <item value="defined in a previous version when assignment group is NOT selectable" />
-      <item value="cascade" />
     </histories>
     <option name="languageScores">
       <map>
