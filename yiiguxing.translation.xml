@@ -2,21 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Unmasks a token previously masked by `maskToken`." />
+      <item value="annotate" />
+      <item value="undocumented" />
+      <item value="showed" />
       <item value="add Product Ref Data" />
       <item value="addtouchpoint" />
       <item value="Criteria" />
       <item value="creation" />
       <item value="populate" />
       <item value="button" />
-      <item value="surround" />
-      <item value="abnormal" />
-      <item value="Pls enter correct agencyId" />
-      <item value="defined in a previous version when assignment group is NOT selectable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="926" />
-        <entry key="ENGLISH" value="927" />
+        <entry key="CHINESE" value="930" />
+        <entry key="ENGLISH" value="931" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -40,14 +40,12 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180523000164652" />
-        <option name="appKeyConfigured" value="true" />
         <option name="primaryLanguage" value="CHINESE" />
       </app-key>
     </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
