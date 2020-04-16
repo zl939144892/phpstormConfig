@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -7,10 +9,10 @@
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="settingsSelectedTab" value="6" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="290beeab:16400fbd988:-7fff" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
