@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Visual" />
       <item value="Customer has not phoneE164 data" />
       <item value="sanitize" />
       <item value="siblings" />
@@ -11,12 +12,11 @@
       <item value="expand" />
       <item value="directly" />
       <item value="Unmasks a token previously masked by `maskToken`." />
-      <item value="annotate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="937" />
+        <entry key="ENGLISH" value="938" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
