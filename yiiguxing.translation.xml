@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Our placeholder used single quote, however sometimes it was translated to &amp;#x27;." />
       <item value="we are not even passing the type in" />
       <item value="Visual" />
       <item value="Customer has not phoneE164 data" />
@@ -11,12 +12,11 @@
       <item value="Stage Entry Date" />
       <item value="get Contact" />
       <item value="expand" />
-      <item value="directly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="938" />
-        <entry key="ENGLISH" value="939" />
+        <entry key="CHINESE" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -40,13 +40,7 @@
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20180523000164652" />
-        <option name="primaryLanguage" value="CHINESE" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
