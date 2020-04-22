@@ -3,24 +3,24 @@
     <extensionMap>
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="file-dock.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
+      <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
+      <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
+      <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern=".zapierapprc" type="PLAIN_TEXT" />
-      <mapping pattern="Dockefile" type="PLAIN_TEXT" />
-      <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
-      <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
       <mapping ext="bcmap" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="html" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="php" approved="true" type="EJS" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
