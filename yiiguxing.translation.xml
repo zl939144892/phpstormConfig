@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Recipient" />
       <item value="Our placeholder used single quote, however sometimes it was translated to &amp;#x27;." />
       <item value="we are not even passing the type in" />
       <item value="Visual" />
@@ -11,12 +12,11 @@
       <item value="there is no subject concept for text" />
       <item value="Stage Entry Date" />
       <item value="get Contact" />
-      <item value="expand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="940" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
