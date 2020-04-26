@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="downscale" />
       <item value="οnchange" />
       <item value="Email signature save successful." />
       <item value="Email signature save fail." />
@@ -11,12 +12,11 @@
       <item value=" session value always be overridden once set new value!" />
       <item value="Recipient" />
       <item value="Our placeholder used single quote, however sometimes it was translated to &amp;#x27;." />
-      <item value="we are not even passing the type in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="946" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="947" />
+        <entry key="ENGLISH" value="949" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
