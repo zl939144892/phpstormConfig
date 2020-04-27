@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="convert vendor status into az status" />
+      <item value="validate other data columns. Need understand the diff between commercial and personal" />
       <item value="downscale" />
       <item value="οnchange" />
       <item value="Email signature save successful." />
@@ -10,13 +12,11 @@
       <item value="collapse" />
       <item value="Your signature will be used in one-on-one emails" />
       <item value=" session value always be overridden once set new value!" />
-      <item value="Recipient" />
-      <item value="Our placeholder used single quote, however sometimes it was translated to &amp;#x27;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="949" />
+        <entry key="ENGLISH" value="951" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
