@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="preserve" />
       <item value="debugger" />
       <item value="Renewal" />
       <item value="convert vendor status into az status" />
@@ -11,12 +12,11 @@
       <item value="Email signature save successful." />
       <item value="Email signature save fail." />
       <item value="stringify" />
-      <item value="collapse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="951" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="CHINESE" value="952" />
+        <entry key="ENGLISH" value="954" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
