@@ -12,7 +12,7 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
