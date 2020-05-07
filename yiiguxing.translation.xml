@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="delimiter" />
       <item value="Inquire" />
       <item value="compare Identical" />
       <item value="haystack" />
@@ -11,12 +12,11 @@
       <item value="Recipient" />
       <item value="Image cannot exceed 5MB" />
       <item value="keep image proportional, default is no" />
-      <item value="enter 1-100 (100 is best quality) default is 100" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="964" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="965" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
