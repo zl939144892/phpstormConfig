@@ -1,0 +1,5 @@
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+</keymap>
