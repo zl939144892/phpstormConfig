@@ -24,6 +24,14 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -37,7 +45,19 @@
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta back_space" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
   <action id="EditorPasteSimple" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="ExternalSystem.DetachProject">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -50,6 +70,8 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
