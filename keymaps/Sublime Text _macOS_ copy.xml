@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -22,6 +25,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -40,6 +46,9 @@
   <action id="FileChooser.GotoProject" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
