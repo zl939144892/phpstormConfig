@@ -6,13 +6,22 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="Arrangement.Rule.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
@@ -27,6 +36,8 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="alt button1" />
   </action>
