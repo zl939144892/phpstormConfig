@@ -58,6 +58,9 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
   <action id="ExternalSystem.DetachProject">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -72,6 +75,7 @@
   </action>
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
