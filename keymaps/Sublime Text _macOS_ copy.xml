@@ -73,8 +73,12 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoSymbol" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
