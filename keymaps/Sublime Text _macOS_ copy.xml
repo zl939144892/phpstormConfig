@@ -61,6 +61,9 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
   <action id="ExternalSystem.DetachProject">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
