@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="parent" />
       <item value="Twice" />
       <item value="expand" />
       <item value="Don't MOVE TO Ams360ReplicateService. Let it stay here" />
@@ -11,7 +12,6 @@
       <item value="duration" />
       <item value="reversed" />
       <item value="suggest" />
-      <item value="maybe" />
     </histories>
     <option name="languageScores">
       <map>
