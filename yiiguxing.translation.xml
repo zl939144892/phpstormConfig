@@ -44,5 +44,6 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
+    <option name="translateDocumentation" value="false" />
   </component>
 </application>
