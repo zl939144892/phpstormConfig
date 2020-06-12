@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="absolute" />
+      <item value="relative" />
       <item value="Quarterly" />
       <item value="Variable" />
       <item value="temporal" />
@@ -10,13 +12,11 @@
       <item value="depending on the vendor, add refresh button" />
       <item value="_get Lead Source Id" />
       <item value="Filled $count data" />
-      <item value="Filled $count vendorLeads" />
-      <item value="return true to indicate &quot;NOT FOUND&quot; regardless if we create lead" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="993" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
