@@ -18,5 +18,6 @@
     <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
+    <mask>*.log</mask>
   </component>
 </application>
