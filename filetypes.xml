@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="file-dock.php" type="PLAIN_TEXT" />
@@ -10,7 +11,6 @@
       <mapping pattern="Dockefile" type="PLAIN_TEXT" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
       <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
-      <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
       <mapping ext="bcmap" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
