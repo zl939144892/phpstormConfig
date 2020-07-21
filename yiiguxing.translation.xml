@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Incorrect" />
       <item value="It is the base controller for AMS integration that uses AMS's ref data as the master data" />
       <item value="concurrency" />
       <item value="this ensures all the mappings are agency specific" />
@@ -11,12 +12,11 @@
       <item value="delimiter" />
       <item value="Performed" />
       <item value="Not applied" />
-      <item value="we also update Prospects to Customers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1021" />
-        <entry key="ENGLISH" value="1022" />
+        <entry key="CHINESE" value="1022" />
+        <entry key="ENGLISH" value="1023" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
