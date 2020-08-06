@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Glimpse" />
+      <item value="Class used to represent anonymous functions." />
       <item value="generate" />
       <item value="side" />
       <item value="This method provides a unicode-safe implementation of built-in PHP function `ucwords()`." />
@@ -10,13 +12,11 @@
       <item value="Essential" />
       <item value="Timestamp" />
       <item value="redirect" />
-      <item value="Received" />
-      <item value="May 28" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1037" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="CHINESE" value="1039" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
