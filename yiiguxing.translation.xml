@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="The above error occurred while the Web server was processing your request." />
       <item value="Announcement" />
       <item value="Glimpse" />
       <item value="Class used to represent anonymous functions." />
@@ -11,12 +12,11 @@
       <item value="Determines if the instance is less (before) or equal to another" />
       <item value="Returns the errors for all attributes as a one-dimensional array." />
       <item value="Essential" />
-      <item value="Timestamp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1040" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="CHINESE" value="1041" />
+        <entry key="ENGLISH" value="1042" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
