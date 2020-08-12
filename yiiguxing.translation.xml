@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Written" />
       <item value="There is no need to catch exception here since the service has caught up-stream exs" />
       <item value="blogroll" />
       <item value="youtube custom play button and thumbail script" />
@@ -11,12 +12,11 @@
       <item value="Glimpse" />
       <item value="Class used to represent anonymous functions." />
       <item value="generate" />
-      <item value="side" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
-        <entry key="ENGLISH" value="1046" />
+        <entry key="CHINESE" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
