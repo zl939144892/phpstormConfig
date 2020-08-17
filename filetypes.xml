@@ -4,6 +4,7 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".LotteryDeadlineCommand.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="file-dock.php" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
       <mapping pattern=".zapierapprc" type="PLAIN_TEXT" />
