@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="decoration" />
       <item value="SEPARATOR" />
       <item value="Allows the creation of nested directories specified in the pathname. Default to false." />
       <item value="Expectation" />
@@ -11,12 +12,11 @@
       <item value="Announcement" />
       <item value="scope" />
       <item value="its first element is treated&#10;     * as the route for the item and the rest of the elements are the associated parameters." />
-      <item value="When the `url` option of a menu item is specified in terms of an array," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1070" />
+        <entry key="CHINESE" value="1070" />
+        <entry key="ENGLISH" value="1071" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
