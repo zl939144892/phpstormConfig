@@ -8,5 +8,6 @@
     <notification groupId="Database view" shouldLog="false" />
     <notification groupId="Database view log" displayType="NONE" shouldLog="false" />
     <notification groupId="Debugger" shouldLog="false" />
+    <notification groupId="io.zhile.research.ide-eval-resetter" shouldLog="false" />
   </component>
 </application>
