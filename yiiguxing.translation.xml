@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Delete fail." />
       <item value="engaging" />
       <item value="batch" />
       <item value="optgroup" />
@@ -11,12 +12,11 @@
       <item value="Customize" />
       <item value="Content" />
       <item value="content" />
-      <item value="context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1081" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="CHINESE" value="1082" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
