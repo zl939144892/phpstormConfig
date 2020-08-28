@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="CSR can not be empty" />
       <item value="dynamically generate the to hidden inputs." />
       <item value="If you want to delete synced policy data you will need to do that in your management system at the same time" />
       <item value="If you want to delete synced policy data you will need to do that In your management system as time" />
@@ -11,12 +12,11 @@
       <item value="engaging" />
       <item value="batch" />
       <item value="optgroup" />
-      <item value="subtraction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1088" />
+        <entry key="ENGLISH" value="1089" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
