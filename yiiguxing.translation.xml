@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Is there a indicator in Agencyzoom indicates a household is a business user?" />
       <item value="Insured" />
       <item value="Recursively" />
       <item value="add qq so we can get rid of the qQ problem" />
@@ -11,12 +12,11 @@
       <item value="dynamically generate the to hidden inputs." />
       <item value="If you want to delete synced policy data you will need to do that in your management system at the same time" />
       <item value="If you want to delete synced policy data you will need to do that In your management system as time" />
-      <item value="If you want to delete synced policy data you will need to do that In your management system first" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1094" />
-        <entry key="ENGLISH" value="1095" />
+        <entry key="CHINESE" value="1095" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
