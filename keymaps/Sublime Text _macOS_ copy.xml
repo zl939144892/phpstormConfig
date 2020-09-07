@@ -55,7 +55,7 @@
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="shift tab" />
   </action>
   <action id="ExternalSystem.DetachProject">
     <keyboard-shortcut first-keystroke="delete" />
@@ -75,10 +75,14 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="NextEditorTab" />
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
   <action id="PreviousEditorTab" />
+  <action id="PreviousTemplateVariable" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="SearchEverywhere.PrevTab" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="Table-selectNextColumnExtendSelection" />
   <action id="Tree-selectChildExtendSelection" />
