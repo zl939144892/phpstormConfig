@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="No customer found from QQ" />
       <item value="Spend" />
       <item value="Sink" />
       <item value="Move fail" />
@@ -11,12 +12,11 @@
       <item value="add qq so we can get rid of the qQ problem" />
       <item value="profile" />
       <item value="Reduction" />
-      <item value="CSR can not be empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1099" />
+        <entry key="ENGLISH" value="1100" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
