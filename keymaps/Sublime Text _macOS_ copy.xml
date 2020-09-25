@@ -23,6 +23,19 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange">
@@ -57,6 +70,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorRightWithSelection" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="EditorSortLines" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
@@ -68,6 +88,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="alt button1" />
   </action>
@@ -75,6 +98,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoSymbol" />
+  <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="meta alt down" />
     <mouse-shortcut keystroke="button2" />
@@ -96,6 +120,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
