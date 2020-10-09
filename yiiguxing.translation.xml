@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="QUOTE" />
       <item value="Collect the contact values for respective customer" />
       <item value="anniversary" />
       <item value="Get the last sold policy info for testing purpose in Zapier" />
@@ -11,12 +12,11 @@
       <item value="void" />
       <item value="evaluate" />
       <item value="No customer found from QQ" />
-      <item value="Spend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1108" />
-        <entry key="ENGLISH" value="1109" />
+        <entry key="CHINESE" value="1109" />
+        <entry key="ENGLISH" value="1110" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
