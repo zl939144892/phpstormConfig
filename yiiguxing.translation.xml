@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Executive" />
+      <item value="Representative" />
       <item value="evaluate" />
       <item value="Touchpoint" />
       <item value="enrolled" />
@@ -10,13 +12,11 @@
       <item value="QQ sync customer contact in progress!" />
       <item value="Are you sure to remove the contact link? The operation can't be undone." />
       <item value="toggle" />
-      <item value="strict" />
-      <item value="carbon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1139" />
-        <entry key="ENGLISH" value="1140" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
