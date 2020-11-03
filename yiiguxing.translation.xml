@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="fill" />
       <item value="Computes the intersection of arrays" />
       <item value="Please turn on relate touchpoint first." />
       <item value="Please turn on relate touchpoint fist." />
@@ -11,12 +12,11 @@
       <item value="Touchpoint" />
       <item value="enrolled" />
       <item value="contact Add Link" />
-      <item value="&lt;input autocomplete=&quot;nope&quot; type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;linkedName&quot; placeholder=&quot;Type name to search.&quot;&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1144" />
-        <entry key="ENGLISH" value="1145" />
+        <entry key="CHINESE" value="1145" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
