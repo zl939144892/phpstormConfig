@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value=" The uploaded book of business will been imported into AgencyZoom, this might take a while depending on the amount of data." />
+      <item value="this might take a while depending on the amount of data." />
       <item value="Division" />
       <item value="PREFIX" />
       <item value="fill" />
@@ -10,13 +12,11 @@
       <item value="Please turn on relate touchpoint fist." />
       <item value="Executive" />
       <item value="Representative" />
-      <item value="evaluate" />
-      <item value="Touchpoint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1148" />
+        <entry key="CHINESE" value="1149" />
+        <entry key="ENGLISH" value="1150" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
