@@ -97,6 +97,7 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoSymbol" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="meta alt down" />
@@ -110,6 +111,9 @@
   <action id="PreviousTemplateVariable" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SearchEverywhere.PrevTab" />
   <action id="ShelveChanges.UnshelveWithDialog" />
