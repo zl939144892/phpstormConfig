@@ -1,7 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
       <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
       <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
@@ -15,17 +14,14 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="bcmap" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="html" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="EJS" />
-      <removed_mapping ext="html" approved="true" type="HTML" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="sql" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
