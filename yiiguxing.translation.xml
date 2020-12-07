@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="we need review here. Might be we should just exclude QQ as its rate limiting really makes it impossible" />
+      <item value="applicable" />
       <item value="this is for lead coming out smart cycle only smart cycle only goes to &quot;new&quot;, right?" />
       <item value="intersect" />
       <item value="Model not inserted due to validation error" />
@@ -10,13 +12,11 @@
       <item value="we simply pick the first one. more sophisticated processing might be needed in the future" />
       <item value="if rule does not provide info about create status, we cache it every time to prevent bugs like #13350" />
       <item value="tear" />
-      <item value="suspend" />
-      <item value="Coverage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1166" />
+        <entry key="CHINESE" value="1167" />
+        <entry key="ENGLISH" value="1168" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
