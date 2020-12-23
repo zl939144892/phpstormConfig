@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Do not import" />
       <item value="deprecated" />
       <item value="If a match is selected, no prospect will be created in QQ" />
       <item value="nowcerts Email Mathed" />
@@ -11,12 +12,11 @@
       <item value="escape" />
       <item value="we need review here. Might be we should just exclude QQ as its rate limiting really makes it impossible" />
       <item value="applicable" />
-      <item value="this is for lead coming out smart cycle only smart cycle only goes to &quot;new&quot;, right?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1173" />
-        <entry key="ENGLISH" value="1174" />
+        <entry key="CHINESE" value="1174" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -37,7 +37,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607923831175" />
+    <option name="lastTrimTime" value="1608702822144" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
