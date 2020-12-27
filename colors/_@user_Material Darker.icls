@@ -4,7 +4,7 @@
     <property name="created">2018-07-29T17:05:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2020-08-05T21:17:24</property>
+    <property name="modified">2020-12-27T10:05:37</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -1361,9 +1361,21 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="JS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="3da4ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f1fdff" />
+      </value>
+    </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="7ed783" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
