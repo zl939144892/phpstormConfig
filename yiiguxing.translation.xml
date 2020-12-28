@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Move to an-other pipeline" />
       <item value="surrogate" />
       <item value="Do not import" />
       <item value="deprecated" />
@@ -11,12 +12,11 @@
       <item value="Lifecycle" />
       <item value="partial" />
       <item value="escape" />
-      <item value="we need review here. Might be we should just exclude QQ as its rate limiting really makes it impossible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1175" />
-        <entry key="ENGLISH" value="1176" />
+        <entry key="CHINESE" value="1176" />
+        <entry key="ENGLISH" value="1177" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
