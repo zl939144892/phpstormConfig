@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
