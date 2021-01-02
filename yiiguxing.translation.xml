@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="truncate" />
       <item value="reduction" />
       <item value="plate" />
       <item value="seq" />
@@ -11,12 +12,11 @@
       <item value="we only concern with 360 right now. this might change, so the condition can become configurable" />
       <item value="Move to an-other pipeline" />
       <item value="surrogate" />
-      <item value="Do not import" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1183" />
-        <entry key="ENGLISH" value="1184" />
+        <entry key="CHINESE" value="1184" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
