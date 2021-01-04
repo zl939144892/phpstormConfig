@@ -9,5 +9,6 @@
     <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
   </component>
 </application>
