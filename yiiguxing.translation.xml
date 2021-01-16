@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="match" />
+      <item value="matches" />
       <item value="register" />
       <item value="  &quot;elements&quot; === instance of SimpleHtmlDomNodeInterface&lt;int, SimpleHtmlDomInterface&gt;" />
       <item value="optional" />
@@ -10,13 +12,11 @@
       <item value="we only concern with 360 right now. this might change, so the condition can become configurable" />
       <item value="migrate" />
       <item value="truncate" />
-      <item value="reduction" />
-      <item value="plate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1191" />
-        <entry key="ENGLISH" value="1192" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
