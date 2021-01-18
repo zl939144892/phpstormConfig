@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="here just for preventing the wrong usage of referral's autoTouchpointDisabled" />
+      <item value="should use leadFact's autoTouchpointDisabled for all automations of referrals," />
+      <item value="early" />
       <item value="unique" />
       <item value="reverse" />
       <item value="Container&#10;Container" />
@@ -9,14 +12,11 @@
       <item value="ensure" />
       <item value="match" />
       <item value="matches" />
-      <item value="register" />
-      <item value="  &quot;elements&quot; === instance of SimpleHtmlDomNodeInterface&lt;int, SimpleHtmlDomInterface&gt;" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1199" />
-        <entry key="ENGLISH" value="1200" />
+        <entry key="CHINESE" value="1202" />
+        <entry key="ENGLISH" value="1203" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
