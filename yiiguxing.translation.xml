@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="second" />
       <item value="Sum Daiv" />
       <item value="Parse" />
       <item value="Parser" />
@@ -11,12 +12,11 @@
       <item value="here just for preventing the wrong usage of referral's autoTouchpointDisabled" />
       <item value="should use leadFact's autoTouchpointDisabled for all automations of referrals," />
       <item value="early" />
-      <item value="unique" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1208" />
-        <entry key="ENGLISH" value="1208" />
+        <entry key="ENGLISH" value="1209" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
