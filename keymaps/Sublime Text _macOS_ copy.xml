@@ -24,6 +24,10 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
   <action id="ClassNameCompletion" />
@@ -88,6 +92,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
