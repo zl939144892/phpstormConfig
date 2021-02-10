@@ -46,6 +46,5 @@
       </app-key>
     </option>
     <option name="keepFormat" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
