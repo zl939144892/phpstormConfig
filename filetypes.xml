@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="null" type="AUTO_DETECTED" />
+      <mapping pattern="2021-02-25.sql" type="AUTO_DETECTED" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
       <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
       <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
