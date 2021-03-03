@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="animate" />
       <item value="intentionally" />
       <item value="Amount" />
       <item value="traverse" />
@@ -11,11 +12,10 @@
       <item value="Article" />
       <item value="Update fail." />
       <item value="fix" />
-      <item value="Enter to Search" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
+        <entry key="CHINESE" value="1237" />
         <entry key="ENGLISH" value="1237" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
@@ -26,7 +26,7 @@
         <entry key="CZECH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="6" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />
@@ -37,7 +37,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614235014559" />
+    <option name="lastTrimTime" value="1614767078122" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
