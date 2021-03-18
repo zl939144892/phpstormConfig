@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ams-messages" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
       <mapping pattern="2021-02-25.sql" type="AUTO_DETECTED" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
