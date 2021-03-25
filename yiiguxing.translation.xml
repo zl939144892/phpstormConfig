@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="announcement" />
       <item value="req" />
       <item value="Before deleting this pipeline, please specify the following:" />
       <item value="At least one pipeline must be reserved" />
@@ -12,12 +13,11 @@
       <item value="endpoint" />
       <item value="partial" />
       <item value="Choose tags" />
-      <item value="This Pipeline have related integration options, can not delete!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1252" />
-        <entry key="ENGLISH" value="1253" />
+        <entry key="CHINESE" value="1253" />
+        <entry key="ENGLISH" value="1254" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
