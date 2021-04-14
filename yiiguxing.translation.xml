@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Collect associated fks" />
       <item value="Sub" />
       <item value="Claim Services" />
       <item value="This operation is irreversible." />
@@ -12,11 +13,10 @@
       <item value="newset" />
       <item value="reduction" />
       <item value="dial" />
-      <item value="Returns the errors for all attributes as a one-dimensional array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1263" />
+        <entry key="CHINESE" value="1264" />
         <entry key="ENGLISH" value="1264" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
@@ -28,7 +28,7 @@
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="7" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="2" />
