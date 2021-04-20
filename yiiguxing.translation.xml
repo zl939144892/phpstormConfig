@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Place imported prospects into this stage:" />
       <item value="Container" />
       <item value="Collect associated fks" />
       <item value="Sub" />
@@ -12,12 +13,11 @@
       <item value="Transaction" />
       <item value="It's weired that changed event can't get the latest val() correctly!" />
       <item value="newset" />
-      <item value="reduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1264" />
-        <entry key="ENGLISH" value="1265" />
+        <entry key="CHINESE" value="1265" />
+        <entry key="ENGLISH" value="1266" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -38,7 +38,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618230100038" />
+    <option name="lastTrimTime" value="1618901461132" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
