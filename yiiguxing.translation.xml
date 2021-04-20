@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cycle" />
       <item value="Place smart-cycle prospects after" />
       <item value="indent" />
       <item value="Place imported prospects into this stage:" />
@@ -12,12 +13,11 @@
       <item value="Claim Services" />
       <item value="This operation is irreversible." />
       <item value="valid" />
-      <item value="Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1267" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1268" />
+        <entry key="ENGLISH" value="1269" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
