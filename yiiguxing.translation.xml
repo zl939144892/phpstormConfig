@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Legality" />
       <item value="consistent" />
       <item value="a mapping from object class names to the properties that need to put into the resulting arrays." />
       <item value="Crit" />
@@ -12,12 +13,11 @@
       <item value="indent" />
       <item value="Place imported prospects into this stage:" />
       <item value="Container" />
-      <item value="Collect associated fks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1270" />
-        <entry key="ENGLISH" value="1271" />
+        <entry key="CHINESE" value="1271" />
+        <entry key="ENGLISH" value="1272" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -38,7 +38,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620377265141" />
+    <option name="lastTrimTime" value="1621230181268" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
