@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="original" />
       <item value="params['report'] ?? null&#10;params['report'] ?? null" />
       <item value="no need to invoke leadFactChanged since it is controlled by" />
       <item value="Legality" />
@@ -12,12 +13,11 @@
       <item value="slate" />
       <item value="Cycle" />
       <item value="Place smart-cycle prospects after" />
-      <item value="indent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1272" />
-        <entry key="ENGLISH" value="1273" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -38,7 +38,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621230181268" />
+    <option name="lastTrimTime" value="1621930242878" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
