@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="split" />
       <item value="combine" />
       <item value="reverse" />
       <item value="URGENT" />
@@ -12,7 +13,6 @@
       <item value="params['report'] ?? null&#10;params['report'] ?? null" />
       <item value="no need to invoke leadFactChanged since it is controlled by" />
       <item value="Legality" />
-      <item value="consistent" />
     </histories>
     <option name="languageScores">
       <map>
