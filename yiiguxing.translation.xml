@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="URGENT" />
       <item value="Temporal" />
       <item value="refine" />
       <item value="original" />
@@ -12,12 +13,11 @@
       <item value="consistent" />
       <item value="a mapping from object class names to the properties that need to put into the resulting arrays." />
       <item value="Crit" />
-      <item value="slate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1275" />
-        <entry key="ENGLISH" value="1276" />
+        <entry key="CHINESE" value="1276" />
+        <entry key="ENGLISH" value="1277" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -38,7 +38,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621930242878" />
+    <option name="lastTrimTime" value="1622604810337" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
