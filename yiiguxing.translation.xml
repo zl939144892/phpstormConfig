@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="combine" />
       <item value="reverse" />
       <item value="URGENT" />
       <item value="Temporal" />
@@ -12,7 +13,6 @@
       <item value="no need to invoke leadFactChanged since it is controlled by" />
       <item value="Legality" />
       <item value="consistent" />
-      <item value="a mapping from object class names to the properties that need to put into the resulting arrays." />
     </histories>
     <option name="languageScores">
       <map>
