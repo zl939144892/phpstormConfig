@@ -3,6 +3,8 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Essential" />
+      <item value="the rest seeding can go here. Check bootstrap_data for duplicate" />
       <item value="flatten" />
       <item value="retrieve" />
       <item value="extract" />
@@ -11,13 +13,11 @@
       <item value="Thank you for being a valued customer." />
       <item value="card set to expire in 2 months" />
       <item value="We truly appreciate your business, please let us know if there's anything we can do for you." />
-      <item value="to update your payment method and prevent service interruption." />
-      <item value="valued" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1300" />
-        <entry key="ENGLISH" value="1301" />
+        <entry key="CHINESE" value="1302" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
