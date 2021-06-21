@@ -17,7 +17,7 @@
     <mask>*.log</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
