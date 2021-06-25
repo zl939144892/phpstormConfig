@@ -4,6 +4,8 @@
       <mapping pattern="ams-messages" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
       <mapping pattern="2021-02-25.sql" type="AUTO_DETECTED" />
+      <mapping pattern="ams-360-messages" type="PHP" />
+      <mapping pattern="ams-now-certs-messages" type="PHP" />
       <mapping pattern="wqeqwe" type="PLAIN_TEXT" />
       <mapping pattern="robot_lottery_ids" type="PLAIN_TEXT" />
       <mapping pattern=".db.rls.config.php.swp" type="PLAIN_TEXT" />
