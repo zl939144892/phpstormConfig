@@ -5,8 +5,10 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -15,9 +17,13 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="tabFontSize" value="15" />
+    <option name="highlightThickness" value="3" />
     <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="19" />
     <option name="accentColor" value="ff9800" />
+    <option name="highlightColor" value="39ff91" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="290beeab:16400fbd988:-7fff" />
   </component>
