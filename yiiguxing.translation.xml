@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Locator" />
       <item value="Important: Must use `FunctionKeys` value as `betas` array key!" />
       <item value="Purchased" />
       <item value="Enroll leadsservice requests added via Zapier in life cycle automation" />
@@ -12,12 +13,11 @@
       <item value="QQ need map multiple AZ to one location in QQ" />
       <item value="get Csr Map" />
       <item value="_c" />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1330" />
-        <entry key="ENGLISH" value="1331" />
+        <entry key="CHINESE" value="1331" />
+        <entry key="ENGLISH" value="1332" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
