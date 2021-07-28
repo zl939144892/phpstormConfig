@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ams-messages" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
+      <mapping pattern="batch-automation-messages" type="AUTO_DETECTED" />
       <mapping pattern="2021-02-25.sql" type="AUTO_DETECTED" />
       <mapping pattern="ams-360-messages" type="PHP" />
       <mapping pattern="ams-now-certs-messages" type="PHP" />
