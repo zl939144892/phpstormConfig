@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="current Timex" />
       <item value="Negotiator" />
       <item value="as long as the session remains active or till the user closes the browser" />
       <item value="optional" />
@@ -12,12 +13,11 @@
       <item value="MANAGER" />
       <item value="intersect" />
       <item value="permissions" />
-      <item value="Consecutive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1346" />
-        <entry key="ENGLISH" value="1347" />
+        <entry key="CHINESE" value="1347" />
+        <entry key="ENGLISH" value="1348" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
