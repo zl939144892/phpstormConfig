@@ -3,6 +3,7 @@
     <option name="maxHistorySize" value="10" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Trace" />
       <item value="the type of the token. The value of this parameter depends on the implementation." />
       <item value="current Timex" />
       <item value="Negotiator" />
@@ -12,12 +13,11 @@
       <item value="it is CORS preflight request, respond with 200 OK without further processing" />
       <item value="Whether this is a OPTIONS request. This property is read-only." />
       <item value="MANAGER" />
-      <item value="intersect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1348" />
-        <entry key="ENGLISH" value="1349" />
+        <entry key="CHINESE" value="1349" />
+        <entry key="ENGLISH" value="1350" />
         <entry key="CHINESE_CANTONESE" value="39" />
         <entry key="ALBANIAN" value="3" />
         <entry key="POLISH" value="2" />
@@ -39,7 +39,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627375430323" />
+    <option name="lastTrimTime" value="1627982192503" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
