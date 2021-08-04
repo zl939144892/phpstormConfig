@@ -17,6 +17,7 @@
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="file-dock.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="bcmap" type="PLAIN_TEXT" />
